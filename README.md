@@ -7,6 +7,9 @@
 
 `@influxdata/influxdb-client-giraffe`
 
+## Telegraph
+Create a Telegraph configuration that monitors your system. Follow the instructions to configure and start Telegraph. This is the data that this sample is built around.  
+
 ## Environment Variables
 Replace `http://localhost:8086`, `my-token`, `my-org`, and `my-bucket` in `env.js`.
 * url should correlate with the server being used (https://docs.influxdata.com/influxdb/cloud/reference/regions/)
