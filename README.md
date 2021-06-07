@@ -1,8 +1,15 @@
-# Getting Started with Create React App
+# Giraffe Sample
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Dependencies to Install
+`@influxdata/giraffe`
 
-## Available Scripts
+`@influxdata/influxdb-client`
+
+`@influxdata/influxdb-client-giraffe`
+
+## Environment Variables
+Replace `
+
 
 In the project directory, you can run:
 
