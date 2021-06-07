@@ -1,4 +1,4 @@
-# Giraffe Sample (React)
+# Giraffe Mosaic Sample (Using React)
 
 ## Dependencies to Install
 `@influxdata/giraffe`
@@ -27,3 +27,8 @@ To view that data set, comment out the other code in `componentDidMount()`, remo
       this.setState({
         data: dataFromFlux.table
       });
+
+## Start and Run
+`npm start` or `yarn start`
+
+<img width="1440" alt="Screen Shot 2021-06-07 at 3 24 14 PM" src="https://user-images.githubusercontent.com/39343323/121076594-972ffa80-c7a4-11eb-97d3-b5b46fc5534d.png">
